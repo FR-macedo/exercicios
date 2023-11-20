@@ -1,3 +1,1 @@
-Exercicicos da aula do dia 11/11/23
-
-**Introdução ao projeto do semestre de Estrutura de Dados**
+*Exercicios gerais de diferentes cadeiras da faculdade e de diferentes cursos.*
